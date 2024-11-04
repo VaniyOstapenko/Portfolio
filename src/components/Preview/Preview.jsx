@@ -84,10 +84,6 @@ function Preview() {
           className={style.myFoto}
         ></motion.div>
       </motion.div>
-
-      <div className={style.contactingMe}>
-        sdghszdflkgjas;odflgj'alskdjfg;alsjfdglakhsf;dahsdlkashdg;skhdg
-      </div>
     </>
   );
 }
